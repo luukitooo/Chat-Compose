@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282544243596",
+    "project_id": "chat-compose-bb7d6",
+    "storage_bucket": "chat-compose-bb7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282544243596:android:4b99d85ef959131e650ca9",
+        "android_client_info": {
+          "package_name": "com.luukitoo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282544243596-p6avs00vjq8l5km5flbv1lj161ib2etd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvC1hn-8iEcm1Hqf5Ct5IXFQSt3LmGs84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282544243596-p6avs00vjq8l5km5flbv1lj161ib2etd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
